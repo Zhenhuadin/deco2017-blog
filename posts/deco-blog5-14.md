@@ -2,7 +2,7 @@
 title: Testing Trust Rather Than Just Functionality
 date: 2026-05-14
 author: zhenhua Ding
-summary: Short description
+summary: Reflecting on testing methodologies, accessibility evaluation, user behaviour analytics, and ethical data collection practices to assess how effectively the platform supports trust, usability, and informed decision-making over time.
 tags:
   - tag1
   - tag2
