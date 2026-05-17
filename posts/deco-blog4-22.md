@@ -2,7 +2,7 @@
 title: Designing for Trust Rather Than Transactions
 date: 2026-04-22
 author: zhenhua Ding
-summary: Short description
+summary: Refining the direction of the BlaBla platform from a feature-focused marketplace into a community-driven decision support system centred around transparency, confidence, accessibility, and the sharing of real ownership experiences.
 tags:
   - tag1
   - tag2
