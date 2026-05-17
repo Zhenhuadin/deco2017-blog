@@ -1,4 +1,4 @@
-posts/_template.md---
+---
 title: Designing for Trust Rather Than Transactions
 date: 2026-04-22
 author: zhenhua Ding
