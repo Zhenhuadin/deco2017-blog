@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: BlaBla is positioned as a community platform, not a marketplace.”
 date: 2026-04-17
 author: zhenhua Ding
 summary: Short description
