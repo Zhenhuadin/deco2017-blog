@@ -2,7 +2,7 @@
 title: Refining the Platform Through Data Design
 date: 2026-4-30
 author: zhenhua Ding
-summary: Short description
+summary: Investigating how structured data models, categorised ownership insights, and clearer information architecture can improve usability, trust, and decision-making while balancing openness with consistency and scalability.
 tags:
   - tag1
   - tag2
