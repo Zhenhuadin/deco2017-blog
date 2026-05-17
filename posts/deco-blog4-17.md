@@ -2,7 +2,7 @@
 title: BlaBla is positioned as a community platform, not a marketplace.”
 date: 2026-04-17
 author: zhenhua Ding
-summary: Short description
+summary: Exploring the early concept development of the BlaBla platform by analysing the functional requirements of a community-focused used car application and identifying trust, uncertainty, and information asymmetry as the core problems users experience during the buying journey.
 tags:
   - tag1
   - tag2
