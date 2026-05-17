@@ -2,7 +2,7 @@
 title: Deployment Decisions and Responsible Integration
 date: 2026-05-8
 author: zhenhua Ding
-summary: Short description
+summary: Evaluating deployment strategies, API integrations, authentication methods, and security considerations to better understand the trade-offs between functionality, scalability, maintainability, and responsible system design.
 tags:
   - tag1
   - tag2
