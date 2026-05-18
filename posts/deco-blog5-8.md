@@ -4,9 +4,9 @@ date: 2026-05-8
 author: zhenhua Ding
 summary: Evaluating deployment strategies, API integrations, authentication methods, and security considerations to better understand the trade-offs between functionality, scalability, maintainability, and responsible system design.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - tag1 Deployment
+  - tag2 API Integration
+  - tag3 Security
 ---
 Write your content here.
 This week’s lecture focused on deployment, external integrations, and API usage, which significantly changed how I think about the BlaBla platform beyond local development. Up until this point, most design decisions were centred around functionality and user experience. However, this week highlighted that deployment choices, API integrations, and security practices are also directly connected to the reliability and trustworthiness of the application.
