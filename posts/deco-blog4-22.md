@@ -4,9 +4,9 @@ date: 2026-04-22
 author: zhenhua Ding
 summary: Refining the direction of the BlaBla platform from a feature-focused marketplace into a community-driven decision support system centred around transparency, confidence, accessibility, and the sharing of real ownership experiences.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - tag1 Decision Support
+  - tag2 Accessibility
+  - tag3 UX Strategy
 ---
 Write your content here.
 By Week 8, the direction of the BlaBla platform became significantly clearer. Earlier discussions focused broadly on creating a community-based used car platform, but this week forced a more important question: what problem are we actually solving that existing marketplaces do not already solve?
