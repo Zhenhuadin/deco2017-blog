@@ -4,9 +4,9 @@ date: 2026-04-17
 author: zhenhua Ding
 summary: Exploring the early concept development of the BlaBla platform by analysing the functional requirements of a community-focused used car application and identifying trust, uncertainty, and information asymmetry as the core problems users experience during the buying journey.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - tag1 Functional Requirements
+  - tag2 User Trust
+  - tag3 Community Design
 ---
 Write your content here.
 test  At first glance, phrases like “user-centred approach” and “bespoke features” can sound like standard product language. But in the context of BlaBla, they signal something more demanding: not just building another platform, but redefining where value actually sits in the used car journey.
