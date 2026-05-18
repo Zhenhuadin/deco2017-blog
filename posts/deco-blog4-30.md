@@ -4,9 +4,9 @@ date: 2026-4-30
 author: zhenhua Ding
 summary: Investigating how structured data models, categorised ownership insights, and clearer information architecture can improve usability, trust, and decision-making while balancing openness with consistency and scalability.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - tag1 Data Modelling
+  - tag2 Information Architecture
+  - tag3 Usability
 ---
 Write your content here.
 This week’s lecture focused on “Designing Data” and highlighted how data modelling should evolve alongside the application itself rather than being treated as a purely technical task. This became particularly relevant to the BlaBla project because the platform’s direction has gradually shifted from functioning as a standard used car marketplace toward becoming a community-driven decision support platform.
