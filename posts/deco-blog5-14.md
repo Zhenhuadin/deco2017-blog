@@ -4,9 +4,9 @@ date: 2026-05-14
 author: zhenhua Ding
 summary: Reflecting on testing methodologies, accessibility evaluation, user behaviour analytics, and ethical data collection practices to assess how effectively the platform supports trust, usability, and informed decision-making over time.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - tag1 Testing
+  - tag2 Accessibility
+  - tag3 Ethical Analytics
 ---
 Write your content here.
 This week’s lecture on testing and analytics fundamentally changed how I think about evaluating the BlaBla platform. Previously, I mainly viewed testing as a technical process focused on checking whether features worked correctly. However, the lecture introduced a more important distinction between testing mechanical correctness, evaluating user experience, and observing real user behaviour over time.
