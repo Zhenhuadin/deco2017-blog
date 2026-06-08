@@ -1,5 +1,5 @@
 ---
-title: EazyCars: Evaluating a Community-Driven Platform for Used Car Decision Support
+title: "EazyCars: Evaluating a Community-Driven Platform for Used Car Decision Support"
 date: 2026-06-8
 author: zhenhua ding
 summary: This final reflection evaluates the development of EazyCars, a community-driven platform designed to support informed used car decisions. Throughout the project, the focus shifted from building a traditional marketplace toward creating a trusted source of ownership experiences, pricing insights, and community knowledge. The reflection examines the application's performance, user experience, accessibility, and functional requirements, while also discussing key lessons learned about project scoping, information design, and trust-centred development. Ultimately, the project demonstrated that successful web applications are not defined solely by their features, but by their ability to help users make confident and informed decisions.
@@ -9,7 +9,7 @@ tags:
   - Decision Support
 ---
 
-..
+
 
 Throughout the development of EazyCars, my understanding of the project evolved significantly. Initially, I approached the application as a community-based used car marketplace that would allow users to browse vehicles, share reviews, and interact with other users. However, as the project progressed and through the weekly reflections completed during the semester, I gradually realised that the platform's real value did not lie in facilitating transactions. Instead, EazyCars became a decision-support platform designed to reduce uncertainty and increase trust within the used car purchasing journey.
 
