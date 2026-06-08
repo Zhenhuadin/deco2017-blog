@@ -1,5 +1,5 @@
 ---A3reflection
-title: "EazyCars: Evaluating a Community-Driven Platform for Used Car Decision Support"
+title: "A3 Reflection EazyCars: Evaluating a Community-Driven Platform for Used Car Decision Support"
 date: 2026-06-8
 author: zhenhua ding
 summary: This final reflection evaluates the development of EazyCars, a community-driven platform designed to support informed used car decisions. Throughout the project, the focus shifted from building a traditional marketplace toward creating a trusted source of ownership experiences, pricing insights, and community knowledge. The reflection examines the application's performance, user experience, accessibility, and functional requirements, while also discussing key lessons learned about project scoping, information design, and trust-centred development. Ultimately, the project demonstrated that successful web applications are not defined solely by their features, but by their ability to help users make confident and informed decisions.
