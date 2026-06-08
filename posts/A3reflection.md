@@ -62,4 +62,3 @@ This reassessment demonstrates how requirements should evolve as understanding o
 
 Overall, the development of EazyCars shifted my perspective from building features toward designing for trust. Technical implementation, user experience, accessibility, deployment, and testing all contributed to a broader understanding of what makes a web application valuable. The project demonstrated that successful web development is not simply about creating functional systems, but about creating systems that users can understand, trust, and use confidently. While there are many areas that could be improved with additional time, the final prototype represents a meaningful step toward supporting better decision-making within the used car community.
 
-![alt text](image-1.png)
