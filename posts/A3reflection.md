@@ -10,11 +10,12 @@ tags:
 ---
 
 
+
 Throughout the development of EazyCars, my understanding of the project evolved significantly. Initially, I approached the application as a community-based used car marketplace that would allow users to browse vehicles, share reviews, and interact with other users. However, as the project progressed and through the weekly reflections completed during the semester, I gradually realised that the platform's real value did not lie in facilitating transactions. Instead, EazyCars became a decision-support platform designed to reduce uncertainty and increase trust within the used car purchasing journey.
 
 This final reflection evaluates the performance of the application, its user experience and accessibility, the lessons learned during development, and how the final outcome compares with the original functional requirements.
 
-                   Performance and Technical Behaviour
+## Performance and Technical Behaviour
 
 From a technical perspective, EazyCars performed reliably within the scope of the project. The application uses a relatively simple architecture built around TypeScript, HTMX, SQLite, and server-side rendering. One advantage of this approach was that it kept the application lightweight and responsive. Most pages loaded quickly because the system did not rely heavily on client-side JavaScript frameworks or large external dependencies.
 
@@ -24,7 +25,7 @@ However, evaluation also revealed several limitations. The current search functi
 
 Another important insight was that technical performance influences user trust. Earlier in development I primarily focused on ensuring that features worked correctly. However, later reflections on deployment and testing helped me recognise that reliability, responsiveness, and stability are also important parts of user confidence. A technically functional platform that feels slow or inconsistent can still create uncertainty for users. As a result, performance should be viewed not only as a technical requirement but also as part of the overall user experience.
 
-                   User Experience and Accessibility
+## User Experience and Accessibility
 
 User experience became one of the most important considerations throughout the project. During the planning phase, I initially focused on implementing features commonly associated with online marketplaces. However, as the project evolved, I became more interested in how information could be presented in ways that support decision-making and reduce uncertainty.
 
@@ -36,7 +37,7 @@ Accessibility also became increasingly important throughout development. Initial
 
 As a result, accessibility considerations influenced design decisions such as readable typography, clear visual hierarchy, semantic page structure, keyboard navigation, and colour contrast. While the prototype does not fully satisfy every accessibility consideration, the development process demonstrated that accessibility should be integrated into design decisions from the beginning rather than treated as a final compliance check.
 
- Critical Reflection and Improvement Planning
+## Critical Reflection and Improvement Planning
 
 One of the most significant lessons learned during development was the importance of project scope. At the beginning of the semester, I considered implementing a range of advanced features including direct messaging, negotiation tools, AI-generated recommendations, and complex pricing systems. These ideas initially appeared attractive because they resembled features found in commercial platforms.
 
@@ -48,7 +49,7 @@ If development were to continue, my highest priority would be improving the way 
 
 Perhaps the most important lesson from the project is that trust should be treated as a design objective rather than an outcome. Every decision involving interface design, information structure, accessibility, deployment, and testing ultimately influences whether users feel confident using the platform.
 
-             Retrospective Assessment of Functional Requirements
+## Retrospective Assessment of Functional Requirements
 
 Looking back at the original functional requirements, some assumptions proved to be more realistic than others. The project successfully implemented core functionality including vehicle listings, user-generated content, browsing, and vehicle management features. These functions support the platform's basic purpose and provide a foundation for future development.
 
@@ -58,7 +59,7 @@ Instead, the most valuable aspect of the platform emerged as its ability to supp
 
 This reassessment demonstrates how requirements should evolve as understanding of users and project goals improves. Rather than viewing changes as failures to follow the original plan, I now see them as evidence of a more informed design process. The final version of EazyCars differs from the original concept in several ways, but it is ultimately more focused, achievable, and aligned with the problem it aims to solve.
 
-                  Conclusion
+## Conclusion
 
 Overall, the development of EazyCars shifted my perspective from building features toward designing for trust. Technical implementation, user experience, accessibility, deployment, and testing all contributed to a broader understanding of what makes a web application valuable. The project demonstrated that successful web development is not simply about creating functional systems, but about creating systems that users can understand, trust, and use confidently. While there are many areas that could be improved with additional time, the final prototype represents a meaningful step toward supporting better decision-making within the used car community.
 
