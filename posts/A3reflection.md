@@ -9,7 +9,7 @@ tags:
   - Decision Support
 ---
 
-
+.
 
 Throughout the development of EazyCars, my understanding of the project evolved significantly. Initially, I approached the application as a community-based used car marketplace that would allow users to browse vehicles, share reviews, and interact with other users. However, as the project progressed and through the weekly reflections completed during the semester, I gradually realised that the platform's real value did not lie in facilitating transactions. Instead, EazyCars became a decision-support platform designed to reduce uncertainty and increase trust within the used car purchasing journey.
 
